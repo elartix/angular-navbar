@@ -8,7 +8,7 @@ An angular directive based on [ui-router](https://github.com/angular-ui/ui-route
 
 Clone **navbar.directive** folder from repository to your **components** folder. If you do not have components folder in your project - create it. From the command line navigate to **components** folder and run
 ```sh
-git clone https://github.com/EugeneSnihovsky/angular-navbar .
+git clone https://github.com/EugeneSnihovsky/angular-navbar
 ```
 Add **navbar** to an array of dependences of angular
 ```javascript
